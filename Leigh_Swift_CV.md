@@ -5,7 +5,7 @@ Senior Software & Applied AI Engineer
 
 ## Contact
 
-Location: Newcastle upon Tyne, UK
+Location: Newcastle upon Tyne, UK (Remote / Hybrid)
 
 Email: leigh@yourfifthquarter.com
 
@@ -21,17 +21,21 @@ Spent 15 years across Epic Games UK and Pitbull Studio, scaling the Epic Games L
 
 ### Your Fifth Quarter, Co-founder and CTO
 
-Jul 2026 to present, Newcastle upon Tyne
+Jul 2026 to present
 
-- Co-founded an AI automation consultancy and solution provider; direct technical strategy and hands-on development across all engagements.
+- Co-founded an AI automation consultancy and solution provider; direct technical strategy and hands-on systems architecture across all engineering initiatives.
 
-- Design and build applied AI systems spanning agent orchestration, LLM inference infrastructure, and model evaluation.
+- Agentic development orchestrator (Go): engineered a human-in-the-loop orchestration platform coordinating autonomous coding agents across Claude, Codex, Antigravity, Copilot, Grok, and Pi-harnessed open-weight models in isolated Docker containers; drives GitHub issues through specification, implementation, cross-family agent review, and human sign-off in per-issue Slack threads.
 
-- Direct daily AI-assisted development workflows, leveraging Claude, Antigravity, and OpenAI coding agents alongside local inference.
+- Multi-provider LLM inference gateway (Go): built a high-resilience OpenAI-compatible HTTP proxy routing across 18 upstream provider endpoints over seven services (including Groq, Gemini, Mistral, OpenRouter, Cloudflare Workers AI, and dual GPU/CPU-RAM local Ollama instances); features ordered per-model provider chains, stacked account failover, and zero-downtime error suppression.
+
+- Slack agent runtime & execution platform: built a multi-tier containerized runtime with partitioned authentication boundaries (user-scoped DM containers with personal Google/enterprise credentials vs. isolated thread containers). Integrated headless Chromium automation with RAM framebuffers and noVNC remote browser takeover via SSH port forwarding, alongside a persistent scheduler for one-off and recurring tasks.
+
+- LLM evaluation and benchmarking tooling (Python): developed an experimentation testbed and specification-based benchmarking suite to evaluate and stream outputs across multi-provider and local models.
 
 ### Epic Games UK, Senior Programmer
 
-Sep 2014 to Mar 2026, Newcastle upon Tyne
+Sep 2014 to Mar 2026
 
 - Original developer of the Epic Games Launcher: engineered from scratch and supported through growth into a global multi-team product used by millions of players and developers worldwide.
 
@@ -43,7 +47,7 @@ Sep 2014 to Mar 2026, Newcastle upon Tyne
 
 ### Pitbull Studio, Lead Programmer
 
-Oct 2010 to Aug 2014, Sunderland
+Oct 2010 to Aug 2014
 
 - Lead and senior programmer at the independent studio that became Epic Games UK on its acquisition by Epic Games in August 2014.
 
@@ -53,33 +57,21 @@ Oct 2010 to Aug 2014, Sunderland
 
 ### mySapient, Programmer
 
-Mar 2009 to Jul 2010, Newcastle upon Tyne
+Mar 2009 to Jul 2010
 
 - Wide-ranging engine and gameplay work on an online 3D social game: in-house engine graphics, a square-root-free verlet-based vehicle physics system, chat and UI systems, and artist tooling.
 
 ### BAE Systems, Electronics Technician
 
-2001 to 2005, Cowes, Isle of Wight
+2001 to 2005
 
 - IEE-accredited Modern Apprenticeship, specialising in programming radar test equipment in the final year.
-
-## Applied AI projects
-
-Internal and personal R&D projects developed at Your Fifth Quarter using heavily AI-assisted workflows. Demonstrates hands-on AI engineering practice (exploratory R&D rather than commercial production deployments).
-
-- Agentic development orchestrator (Go): coordinates autonomous coding agents, including Claude Code, Codex, Antigravity and a local-model agent, each running in its own isolated Docker container. Drives GitHub issues through specification, implementation and review in Slack threads, where humans approve plans and review pull requests, and agents respond to human feedback.
-
-- Multi-provider LLM inference gateway (Go): an OpenAI-compatible proxy with ordered per-model provider chains and transparent failover. If a provider hits rate limits, timeouts or server errors, the proxy retries the next provider without exposing the failure to the client, across local Ollama and other inference providers, with multiple accounts stackable per provider.
-
-- LLM playground (Python): an experimentation space for testing, benchmarking and streaming LLMs across multiple providers, including local Ollama models.
-
-- LLM coding benchmark: a specification-based benchmark with per-model results comparing how accurately models implement a detailed spec.
 
 ## Skills
 
 Languages: C, C++, C#, Python, TypeScript, Go
 
-AI and LLM: OpenAI-compatible LLM APIs and multi-provider integration; agentic coding tools including Claude, Codex and Antigravity; local inference with Ollama; agentic and multi-agent workflows
+AI and LLM: OpenAI-compatible API proxying and multi-provider routing; agentic coding tools (Claude, Codex, Antigravity, Copilot, Grok); local and edge inference (dual GPU/CPU Ollama, Pi hardware harnesses); human-in-the-loop agentic workflows
 
 Systems: Large-scale desktop applications, installer and patching systems, multi-threaded software, Unreal Engine, Docker, GitHub and Slack integrations
 
