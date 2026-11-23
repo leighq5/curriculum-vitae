@@ -1,8 +1,7 @@
 # Leigh Swift
 
-Senior Software Engineer
-
-Senior software engineer with 15 years at Epic Games UK and its predecessor Pitbull Studio, including original-developer ownership of products used by millions, now building applied AI systems as co-founder and CTO of Your Fifth Quarter.
+Senior Software & Applied AI Engineer  
+*Original Developer, Epic Games Launcher | Co-Founder & CTO, Your Fifth Quarter*
 
 ## Contact
 
@@ -16,7 +15,7 @@ LinkedIn: linkedin.com/in/leigh-swift
 
 ## Profile
 
-I spent 15 years at Epic Games UK and Pitbull Studio, where I was the original developer of the Epic Games Launcher and of the build patching system behind it. Both grew from work I started into multi-team developments serving millions of users. I now co-found and lead engineering at Your Fifth Quarter, an AI automation consultancy, where I design and build agentic systems, LLM infrastructure and evaluation tooling. I am looking for contract AI engineering work where deep software engineering craft matters as much as model knowledge. My electrical and electronic engineering background shapes my architectural, component-wise approach to software design.
+Spent 15 years across Epic Games UK and Pitbull Studio, scaling the Epic Games Launcher and its binary-delta patching system from initial codebases into multi-team global efforts serving millions of users. Currently co-founder and CTO at Your Fifth Quarter, architecting agentic systems, LLM infrastructure, and evaluation tooling. Seeking contract AI engineering or software development engagements where deep systems craft matters as much as model knowledge. Electrical and electronic engineering foundation underpins an architectural, component-driven approach to software design.
 
 ## Experience
 
@@ -24,23 +23,23 @@ I spent 15 years at Epic Games UK and Pitbull Studio, where I was the original d
 
 Jul 2026 to present, Newcastle upon Tyne
 
-- Co-founded an AI automation consultancy; lead developer across its technical work.
+- Co-founded an AI automation consultancy and solution provider; direct technical strategy and hands-on development across all engagements.
 
-- Design and build applied AI systems spanning agent orchestration, LLM inference infrastructure and model evaluation.
+- Design and build applied AI systems spanning agent orchestration, LLM inference infrastructure, and model evaluation.
 
-- Use heavily AI-assisted development workflows daily, directing Claude, Antigravity and OpenAI coding agents alongside local inference, rather than only writing code by hand.
+- Direct daily AI-assisted development workflows, leveraging Claude, Antigravity, and OpenAI coding agents alongside local inference.
 
 ### Epic Games UK, Senior Programmer
 
 Sep 2014 to Mar 2026, Newcastle upon Tyne
 
-- Original developer of the Epic Games Launcher: built it from nothing and stayed with it as it grew into a multi-team product used by millions of players and developers worldwide.
+- Original developer of the Epic Games Launcher: engineered from scratch and supported through growth into a global multi-team product used by millions of players and developers worldwide.
 
-- Original developer of the build patching and installation system: chunked binary-delta patching capable of updating any version of data to any other, forwards and backward, reusing local installations as sources.
+- Original developer of the build patching and installation system: engineered chunked binary-delta patching capable of optimally updating any version of data to any other, forwards and backward, reusing local installations as sources.
 
-- Both systems grew into multi-team development over more than a decade of live operation at global scale.
+- Scaled both systems across more than a decade of live operation at global scale, transitioning them into multi-team development initiatives.
 
-- Used Claude-assisted development on live production codebases in the final period of the role.
+- Integrated Claude-assisted development workflows into live production codebases.
 
 ### Pitbull Studio, Lead Programmer
 
@@ -66,7 +65,7 @@ Mar 2009 to Jul 2010, Newcastle upon Tyne
 
 ## Applied AI projects
 
-Internal and personal R&D projects at Your Fifth Quarter, where I am the main developer, built with heavily AI-assisted implementation. They show hands-on AI engineering practice; they are not commercial production deployments.
+Internal and personal R&D projects developed at Your Fifth Quarter using heavily AI-assisted workflows. Demonstrates hands-on AI engineering practice (exploratory R&D rather than commercial production deployments).
 
 - Agentic development orchestrator (Go): coordinates autonomous coding agents, including Claude Code, Codex, Antigravity and a local-model agent, each running in its own isolated Docker container. Drives GitHub issues through specification, implementation and review in Slack threads, where humans approve plans and review pull requests, and agents respond to human feedback.
 
